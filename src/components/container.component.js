@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 
 import '../App.css';
 
-import Navbar from './navbar.component';
-import VideoPlayer from './videoPlayer.component';
+import Navbar from './Navbar.component';
+import VideoPlayer from './VideoPlayer.component';
 import VideoCard from './VideoCards.component';
 import YTSearch from 'youtube-api-search';
 
