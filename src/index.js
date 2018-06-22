@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const App = function(){
-    return <h1>Hello</h1>
-}
+import Container from './components/container.component'
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Container />, document.getElementById('root'));
