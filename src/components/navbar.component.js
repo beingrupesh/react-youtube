@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 class Navbar extends Component {
+    
     render() {
 
         this.handleChange = (searchText) => {
@@ -20,6 +21,7 @@ class Navbar extends Component {
             </nav >
         )
     }
+    
 }
 
 export default Navbar;

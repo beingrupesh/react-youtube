@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 class VideoPlayer extends Component {
+    
     render() {
 
         if (!this.props.video) {
@@ -30,6 +31,7 @@ class VideoPlayer extends Component {
             </div>
         )
     }
+    
 }
 
 export default VideoPlayer;

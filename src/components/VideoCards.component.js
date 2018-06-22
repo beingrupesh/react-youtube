@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 class VideoCard extends Component {
+    
     render() {
 
         if (!this.props.videos) {
@@ -51,6 +52,7 @@ class VideoCard extends Component {
             </ul>
         );
     }
+    
 }
 
 export default VideoCard;

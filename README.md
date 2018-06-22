@@ -7,6 +7,6 @@
 
 - Run `npm install` to install dependencies.
 
-- Get your YouTube api key and place it in `container.component.js` file on line number 10.
+- Get your YouTube api key and place it in `Container.component.js` file on line number 10.
 
 - Run  `npm start` to run the application.

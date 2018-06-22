@@ -7,7 +7,7 @@ import VideoPlayer from './VideoPlayer.component';
 import VideoCard from './VideoCards.component';
 import YTSearch from 'youtube-api-search';
 
-const API_KEY = 'xxxxxxxxxxxxxx';
+const API_KEY = 'xxxxxxxxxxxxxxxxxxx';
 
 class Container extends Component {
 
